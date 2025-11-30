@@ -1,0 +1,1 @@
+{"name": "skinware-site","version": "0.1.0","private": true,"scripts": {"build": "mkdir -p build && cp index.html index-CVyR24YN.css build/ && npx tailwindcss -i ./src/input.css -o ./build/output.css --minify"},"devDependencies": {"tailwindcss": "^4.1.16","postcss": "^8.0.0","autoprefixer": "^10.0.0"}}
